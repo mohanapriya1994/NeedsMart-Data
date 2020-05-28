@@ -9,10 +9,6 @@ services: [
   {
     id: 2,
     title: "Thesis Editing"
-  },
-  {
-    id: 3,
-    title: "Proposal Editing"
   }
 ]
 ---
