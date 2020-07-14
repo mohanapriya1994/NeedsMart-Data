@@ -2,8 +2,8 @@
 title: "Ad copies"
 highlight: "Best Selling Service on our site"
 editedTypes: {
-  title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Editing"]
+  title: "Types of Ad copies edited",
+  types: ["Research Paper", "Thesis", "Proposal"]
 }
 features: [
   {
@@ -100,13 +100,6 @@ editingLevels: {
     {
       id: 8,
       title: "Verifing effective structure and outline",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    },
-    {
-      id: 9,
-      title: "Rewriting sentences to make content clear, concise and effective",
       copy: "no",
       substantive: "no",
       developmental: "yes"

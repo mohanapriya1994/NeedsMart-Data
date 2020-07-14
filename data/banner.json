@@ -5,15 +5,18 @@
   "services": [
     {
       "id": 1,
-      "title": "Manuscript Editing"
+      "title": "Manuscript Editing",
+      "link": "manuscript_editing"
     },
     {
       "id": 2,
-      "title": "Thesis Editing"
+      "title": "Thesis Editing",
+      "link": "thesis_editing"
     },
     {
       "id": 3,
-      "title": "Proposal Editing"
+      "title": "Proposal Editing",
+      "link": "proposal_editing"
     }
   ]
 }
