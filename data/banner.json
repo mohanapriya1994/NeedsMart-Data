@@ -1,6 +1,7 @@
 {
-  "title": "Top-notch editing services.",
-  "content": "Customers choose us for <span>Common Sense<span>",
+  "title": "Affordable manuscript editing services.",
+  "content": "For",
+  "typedWords": ["Academics", "Authors", "Corporate", "Students", "Publishers"],
   "services": [
     {
       "id": 1,
