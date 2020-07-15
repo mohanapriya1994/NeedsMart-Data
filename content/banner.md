@@ -1,5 +1,5 @@
 ---
-title: "Top-notch editing services."
+title: "Affordable manuscript editing services."
 description: "Customers choose us for <span>Native English Editors<span>"
 services: [
   {
