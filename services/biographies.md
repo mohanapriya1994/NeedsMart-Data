@@ -3,7 +3,7 @@ title: "Biographies"
 highlight: "Best Selling Service on our site"
 editedTypes: {
   title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Editing"]
+  types: ["Research Paper", "Thesis", "Proposal"]
 }
 features: [
   {
