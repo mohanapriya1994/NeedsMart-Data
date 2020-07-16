@@ -3,7 +3,7 @@ title: "Ad copies"
 highlight: "Best Selling Service on our site"
 editedTypes: {
   title: "Types of Ad copies edited",
-  types: ["Research Paper", "Thesis", "Proposal"]
+  types: ["Research Paper", "Thesis", "Proposal", "Technical Editing"]
 }
 features: [
   {
