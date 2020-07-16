@@ -5,7 +5,7 @@ badge: "quality_badge.png"
 specialities: [
   {
     id: 1,
-    title": "Quality",
+    title: "Quality",
     description: "We ensure top-notch quality. Your documents are edited by native-English editors with tons of experience.",
     themeColor: "rgba(52, 152, 219, 0.7)"
   },
