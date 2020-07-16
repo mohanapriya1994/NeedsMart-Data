@@ -5,22 +5,22 @@ clients: [
   {
     id: 1,
     title: "NUS",
-    image: "nus.png"
+    image: "../assets/nus.png"
   },
   {
     id: 2,
     title: "World Scientific",
-    image: "world_scientific.png"
+    image: "../assets/world_scientific.png"
   },
   {
     id: 3,
     title: "University of Malaya",
-    image: "malaya_university.png"
+    image: "../assets/malaya_university.png"
   },
   {
     id: 4,
     title: "CADD centre",
-    image: "cadd_centre.png"
+    image: "../assets/cadd_centre.png"
   }
 ]
 ---
