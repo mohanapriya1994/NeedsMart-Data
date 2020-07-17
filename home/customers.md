@@ -7,7 +7,7 @@ customers: [
     comment: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet",
     role: "Customer Engagement Manager",
     company: "CADD Centre",
-    image: "justin.png"
+    image: "../assets/justin.png"
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ customers: [
     comment: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet",
     role: "Customer Engagement Manager",
     company: "CADD Centre",
-    image: "candy.png"
+    image: "../assets/candy.png"
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ customers: [
     comment: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet",
     role: "Customer Engagement Manager",
     company: "CADD Centre",
-    image: "john.png"
+    image: "../assets/john.png"
   }
 ]
 ---

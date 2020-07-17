@@ -5,22 +5,22 @@ features:
     {
       id: 1,
       title: "PhD Editors",
-      image: "editors.svg"
+      image: "../assets/editors.png"
     },
     {
       id: 2,
       title: "Affordable Prices",
-      image: "affordable.svg"
+      image: "../assets/affordable.png"
     },
     {
       id: 3,
       title: "Unlimited Support",
-      image: "support.svg"
+      image: "../assets/support.png"
     },
     {
       id: 4,
       title: "Confidential",
-      image: "confidential.svg"
+      image: "../assets/confidential.png"
     }
   ]
 ---
