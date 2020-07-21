@@ -115,7 +115,7 @@ sitemapList: [
       {
         id: 9,
         title: "Resume Editing",
-        link: "/"
+        link: "/services/resume_editing"
       }
     ]
   },
