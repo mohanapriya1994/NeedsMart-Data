@@ -4,6 +4,7 @@ date: 2020-05-29
 author: ContentConcepts
 author_image: ./author.png
 bio: Take our word. No-nonsense content solutions
+previewImage: ./abstract.png
 excerpt: "A well-written abstract should be reflective of the overall contents of the research article. By skimming through it, the reader should be able to understand the focus of the work and its relevance to their area of interest, thereby determining whether the full text warrants their attention."
 tags:
   - Abstract
