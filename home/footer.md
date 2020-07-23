@@ -8,17 +8,17 @@ sitemapList: [
       {
         id: 1,
         title: "Our Editors",
-        link: "/"
+        link: "/about/"
       },
       {
         id: 2,
         title: "Pricing",
-        link: "/"
+        link: "/pricing/"
       },
       {
         id: 3,
         title: "Contact",
-        link: "/"
+        link: "/contact/"
       }
     ]
   },
