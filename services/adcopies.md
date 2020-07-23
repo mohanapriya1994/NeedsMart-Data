@@ -107,7 +107,27 @@ editingLevels: {
   ]
 }
 editingSample: {
-  
+  title: "Editing Sample",
+  samples: [
+    {
+      id: 1,
+      title: "Copy Editing",
+      description: "Line by line editing for language, readibility nad technical learning improvement",
+      image: "../assets/substantive_editing.png"
+    },
+    {
+      id: 2,
+      title: "Substantive Editing",
+      description: "Line by line editing for language, readibility nad technical learning improvement",
+      image: "../assets/substantive_editing.png"
+    },
+    {
+      id: 3,
+      title: "Developmental Editing",
+      description: "Line by line editing for language, readibility nad technical learning improvement",
+      image: "../assets/substantive_editing.png"
+    }
+  ]
 }
 editingHighlights: {
   title: "Highlights of our manuscript editing services",
