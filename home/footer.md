@@ -195,6 +195,27 @@ sitemapList: [
         link: "/services/technical_reports"
       }
     ]
+  },
+  {
+    id: 6,
+    title: "Consulting",
+    sitemap: [
+      {
+        id: 1,
+        title: "Content Strategy",
+        link: "/services/content_strategy"
+      },
+      {
+        id: 2,
+        title: "Digital Marketing",
+        link: "/services/digital_marketing"
+      },
+      {
+        id: 3,
+        title: "Social Media",
+        link: "/services/social_media"
+      }
+    ]
   }
 ]
 ---
