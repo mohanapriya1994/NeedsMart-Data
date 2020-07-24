@@ -90,7 +90,7 @@ sitemapList: [
       {
         id: 4,
         title: "Technical Reports",
-        link: "/services/technical_reports"
+        link: "/services/academic_technical_reports"
       },
       {
         id: 5,
