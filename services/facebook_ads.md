@@ -1,5 +1,5 @@
 ---
-title: "Marketing Collateral"
+title: "Facebook Ads"
 highlight: "Best Selling Service on our site"
 editedTypes: {
   title: "Types of Manuscripts edited",
@@ -169,6 +169,6 @@ quality: {
   title: "Quality Assurance",
   description: "At ContentConcepts, we assure you top-notch work with every document we deliver, every timeline we commit and every time we interact with our customers."
 }
-key: "marketing_collateral"
+key: "facebook_ads"
 parentType: "content_development"
 ---
