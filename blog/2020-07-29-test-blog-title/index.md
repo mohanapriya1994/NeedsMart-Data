@@ -1,8 +1,8 @@
 ---
 author_image: author.png
 author: ContentConcepts
-title: Test Blog Title
 bio: No non-sense content solutions
+title: Test Blog Title
 date: 2020-07-29T05:35:48.426Z
 previewImage: elements_of_style.jpg
 excerpt: We all have fumbled and continue to when it comes to writing. Be it a
