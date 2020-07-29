@@ -9,4 +9,8 @@ excerpt: test conten
 tags:
   - english wirting
 ---
-**Heading**
+*
+
+```
+This is a must-read and must-have book on every writer’s list. You can find the best explanation of basic rules of writing ever written. No, this is not a boring grammar book; it contains very informative chapters on rules and usage of writing in English.
+```
