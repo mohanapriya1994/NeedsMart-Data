@@ -3,7 +3,7 @@ author_image: author.png
 author: ContentConcepts
 bio: Take our word. No-nonsense content solutions
 title: Books that can significantly improve your grammar skills
-date: July 30 2020
+date: 2020-07-30
 previewImage: elements_of_style.jpg
 excerpt: We all have fumbled and continue to when it comes to writing.
 tags:
