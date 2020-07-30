@@ -3,7 +3,7 @@ author_image: author.png
 author: ContentConcepts
 bio: Take our word
 title: Write a Book
-date: July 30 2020
+date: 2020-07-28
 previewImage: elements_of_style.jpg
 excerpt: Test content
 tags:
