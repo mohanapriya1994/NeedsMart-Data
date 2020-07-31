@@ -1,14 +1,20 @@
 ---
 title: "ESL Editing"
-highlight: "Best Selling Service on our site"
-editedTypes: {
-  title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Editing"]
+highlight: "If English is your second language, choose this"
+description: "For non-native speakers of English, writing a research manuscript or paper is a difficlut task. Your strength is research and your language may not be effective. Our ESL editors specalise in editing manuscripts written by authors whose first language is not English. Get the right word, right sentence structure and convey your research findings effectively"
+message: "Not happy with edit? <span>100% refund without any condition</span>"
+priceCard: {
+  pricing: {
+    title: "Starting from",
+    price: "<span>$0.03</span>/word"
+  },
+  tagContent: "Edited by qualified subject matter experts",
+  content: "Don't need major revisions before journal submission?"
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Native-English editors"
   },
   {
     id: 2,
@@ -16,15 +22,15 @@ features: [
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Over 10,000 papers edited for ESL authors"
   },
   {
     id: 4,
-    title: "1500 plus journal style and formats edited"
+    title: "Fast and affordable service"
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Multiple rounds of editing available"
   }
 ]
 editingLevels: {
@@ -114,7 +120,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "ESL Editing Sample",
   samples: [
     {
       id: 1,
@@ -137,18 +143,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our ESL Manuscript Editing services",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our ESL manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your ESL manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
       image: "../assets/support.svg"
     },
     {

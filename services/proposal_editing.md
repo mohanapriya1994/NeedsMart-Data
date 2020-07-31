@@ -1,27 +1,33 @@
 ---
 title: "Proposal Editing"
-highlight: "Best Selling Service on our site"
-editedTypes: {
-  title: "Types of Proposals edited",
-  types: ["Thesis", "Proposal", "Technical Editing"]
+highlight: "Concsie and complete is the key"
+description: "Types of Proposals edited - You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively."
+message: "Not happy with edit? <span>100% refund without any condition</span>"
+priceCard: {
+  pricing: {
+    title: "Starting from",
+    price: "<span>$0.03</span>/word"
+  },
+  tagContent: "Edited by qualified subject matter experts",
+  content: "Don't need major revisions before journal submission?"
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Edited by experienced grant writers"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Check for proper structure and flow"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Cut down redundancy and get to the point"
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
-  subHeading: "Because each author is unique",
+  title: "Proposal Editing levels",
+  subHeading: "Because each proposal is unique",
   levelTypes: [
     {
       id: 1,
@@ -49,7 +55,7 @@ editingLevels: {
     },
     {
       id: 2,
-      title: "Ensuring the manuscripts adheres to style guide",
+      title: "Ensuring the proposal adheres to guidelines",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
@@ -106,7 +112,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Proposal Editing Sample",
   samples: [
     {
       id: 1,
@@ -129,18 +135,18 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our manuscript editing services",
+  title: "Highlights of our Proposal Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our proposal editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      description: "You can talk to your proposal editor until you are satisfied with our editing service, get your queries answered via email or chat and send your proposal after review from for further check.",
       image: "../assets/support.svg"
     },
     {

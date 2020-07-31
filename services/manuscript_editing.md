@@ -1,9 +1,15 @@
 ---
 title: "Manuscript Editing"
-highlight: "Best Selling Service on our site"
-editedTypes: {
-  title: "Types of Manuscripts edited",
-  types: ["Research Paper", "Thesis", "Proposal", "Technical Reports"]
+highlight: "Our #1 selling service"
+description: "Types of Manuscripts edited - Research Paper, Thesis, Proposal, Technical Editing"
+message: "Not happy with edit? <span>100% refund without any condition</span>"
+priceCard: {
+  pricing: {
+    title: "Starts from",
+    price: "<span>INR 1.5</span>/word"
+    },
+  tagContent: "No express fee, quick turnaround",
+  content: "Top quality yet truly affordable price"
 }
 features: [
   {
@@ -24,12 +30,12 @@ features: [
   },
   {
     id: 5,
-    title: "Flawless editing"
+    title: "Plagiarism check available"
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
-  subHeading: "Because each author is unique",
+  title: "Manuscript Editing Levels",
+  subHeading: "Choose the right editing level",
   levelTypes: [
     {
       id: 1,
@@ -43,75 +49,54 @@ editingLevels: {
     },
     {
       id: 3,
-      title: "Developmental Editing",
+      title: "Scientific Editing",
       themeColor: "#03CA8B"
     }
   ],
   levels: [
     {
       id: 1,
-      title: "Checking for grammatical errors Correcting spelling mistakes",
+      title: "Grammatically correct usage of words and sentences",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 2,
-      title: "Ensuring the manuscripts adheres to style guide",
+      title: "Appropriate usage of terminology",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
-      copy: "yes",
+      title: "Style and formatting as per journal guidelines",
+      copy: "no",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 4,
-      title: "A thorough line-edit to ensure correct grammar, tone, clarity and consistency",
+      title: "Overall structure of the paper, tone and section transition",
       copy: "no",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 5,
-      title: "Editing at word level and sentence level",
+      title: "Technical review of manuscript by editor",
       copy: "no",
-      substantive: "yes",
+      substantive: "no",
       developmental: "yes"
     },
     {
       id: 6,
-      title: "Checking for appropirate usage for words and terms",
-      copy: "no",
-      substantive: "yes",
-      developmental: "yes"
-    },
-    {
-      id: 7,
-      title: "Analyzing your manuscript as whole",
+      title: "Detailed report on structure and technical correctness of your manuscript",
       copy: "no",
       substantive: "no",
       developmental: "yes"
     },
-    {
-      id: 8,
-      title: "Verifing effective structure and outline",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    },
-    {
-      id: 9,
-      title: "Rewriting sentences to make content clear, concise and effective",
-      copy: "no",
-      substantive: "no",
-      developmental: "yes"
-    }
-  ]
+      ]
 }
 editingSample: {
   title: "Editing Sample",
