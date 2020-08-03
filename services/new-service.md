@@ -1,6 +1,6 @@
 ---
 title: New service
-highlight: Best Selling Service on our site
+highlight: Best Selling Service on our site test
 description: Types of Manuscripts edited - Research Paper, Thesis, Proposal,
   Technical Editing
 message: Not happy with edit? <span>100% refund without any condition</span>
@@ -41,7 +41,7 @@ editingSample:
       id: 1
       description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: /assets/substantive_editing.png
+      image: substantive_editing.png
 editingHighlights:
   title: Highlights of our manuscript editing services
   highlights:
@@ -50,13 +50,13 @@ editingHighlights:
       description: Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
-      image: /assets/confidential.svg
+      image: affordable.svg
     - title: Editing
       id: 0
       description: Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
-      image: /assets/editors.svg
+      image: confidential.svg
 key: test_service
 parentType: academic
 ---
