@@ -41,7 +41,7 @@ editingSample:
       id: 1
       description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: /substantive_editing.png
+      image: ../assets/substantive_editing.png
 editingHighlights:
   title: Highlights of our manuscript editing services
   highlights:
@@ -50,13 +50,13 @@ editingHighlights:
       description: Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
-      image: affordable.svg
+      image: ../assets/affordable.svg
     - title: Editing
       id: 0
       description: Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
-      image: /consulting.svg
+      image: ../assets/consulting.svg
 key: test_service
 parentType: academic
 ---
