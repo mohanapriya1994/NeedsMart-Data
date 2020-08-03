@@ -12,7 +12,7 @@ pricing:
       - Grammar
       - spelling
       - Check for appropriate usage of words
-      - Editing at word
+      - Editing at word and sentence level
     price:
       inr: ₹ <span>1.50</span>/word
       usd: $ <span>0.03</span>/word
