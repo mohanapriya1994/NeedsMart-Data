@@ -1,5 +1,5 @@
 ---
-title: "Affordable manuscript editing services."
+title: "Affordable Editing & Proofreading Services."
 content: "For"
 typedWords: ["Academics", "Authors", "Corporate", "Students", "Publishers"]
 services: [
@@ -11,7 +11,7 @@ services: [
   {
     id: 2,
     title: "Plagiarism Check",
-    link: "thesis_editing"
+    link: "plagiarism_check"
   },
   {
     id: 3,

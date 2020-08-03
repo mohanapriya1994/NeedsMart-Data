@@ -85,23 +85,23 @@ sitemapList: [
       },
       {
         id: 2,
-        title: "Marketing Collateral",
-        link: "/services/marketing_collateral"
+        title: "Journal Submission",
+        link: "/services/journal_submission"
       },
       {
         id: 3,
-        title: "Resume Writing",
-        link: "/services/resume_writing"
+        title: "Pre-submission Review",
+        link: "/services/presubmission_review"
       },
       {
         id: 4,
-        title: "UI Content / Microcopy",
-        link: "/services/ui_microcopy"
+        title: "Manuscript Re-submission",
+        link: "/services/manuscript_resubmission"
       },
       {
         id: 5,
-        title: "Blog Content",
-        link: "/services/blog_content"
+        title: "Publication Services",
+        link: "/services/publication_services"
       },
       {
         id: 6,
@@ -126,18 +126,18 @@ sitemapList: [
     sitemap: [
       {
         id: 1,
-        title: "User Manuals",
-        link: "/services/user_manuals"
+        title: "Plagiarism Check",
+        link: "/services/plagiarism_check"
       },
       {
         id: 2,
-        title: "Instructional Gids",
-        link: "/services/instructional_guides"
+        title: "Manuscript Similarity Check",
+        link: "/services/similarity_check"
       },
       {
         id: 3,
-        title: "Website Contents",
-        link: "/services/technical_website_contents"
+        title: "Plagiarism Editing",
+        link: "/services/plagiarism_editing"
       },
       {
         id: 4,
@@ -152,7 +152,7 @@ sitemapList: [
     sitemap: [
       {
         id: 1,
-        title: "Propsals",
+        title: "Proposal",
         link: "/services/propsals"
       },
       {

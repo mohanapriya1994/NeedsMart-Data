@@ -1,41 +1,41 @@
 ---
-title: "Thesis Editing"
-highlight: "Fast & Affordable"
-description: "What type of documents can you submit? - Thesis, Dissertation, Thesis Proposal, Dissertation Proposal"
-message: "Not happy with edit? <span>100% refund without any condition</span>"
+title: "Plagiarism Check"
+highlight: "Powered by Technology + Human"
+description: "You read it right. Our plagiarism check is powered by industry leading software followed by a review by our editors to identify the nature of simlarity and recommendation on further work "
+message: "Significant reduction in similarity<span>Talk to us for more details</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
     price: "<span>$0.03</span>/word"
   },
-  tagContent: "Quality & Affordable",
+  tagContent: "Edited by qualified subject matter experts",
   content: "Don't need major revisions before journal submission?"
 }
 features: [
   {
     id: 1,
-    title: "Edited by qualified subject matter experts"
+    title: "Industry leading software for checking"
   },
   {
     id: 2,
-    title: "Phd Editors with certified English language editing skills"
+    title: "Human review by editors"
   },
   {
     id: 3,
-    title: "Native-English editors"
+    title: "Detailed report on similarity"
   },
   {
     id: 4,
-    title: "Over 1500 thesis edited"
+    title: "Recommendations to reduce similarity"
   },
   {
     id: 5,
-    title: "APA, Chicago and MLA style check & formatting"
+    title: "Same day delivery"
   }
 ]
 editingLevels: {
-  title: "Thesis Editing Levels",
-  subHeading: "Choose the right editing level",
+  title: "Different levels of editing",
+  subHeading: "Because each author is unique",
   levelTypes: [
     {
       id: 1,
@@ -49,57 +49,78 @@ editingLevels: {
     },
     {
       id: 3,
-      title: "Scientific Editing",
+      title: "Developmental Editing",
       themeColor: "#03CA8B"
     }
   ],
   levels: [
     {
       id: 1,
-      title: "Grammatically correct usage of words and sentences",
+      title: "Checking for grammatical errors Correcting spelling mistakes",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 2,
-      title: "Appropriate usage of terminology",
+      title: "Ensuring the manuscripts adheres to style guide",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 3,
-      title: "Style and formatting as per journal guidelines",
-      copy: "no",
+      title: "Ensuring the final copy is clean without any Typographical or other errors",
+      copy: "yes",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 4,
-      title: "Overall structure of the paper, tone and section transition",
+      title: "A thorough line-edit to ensure correct grammar, tone, clarity and consistency",
       copy: "no",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 5,
-      title: "Technical review of manuscript by editor",
+      title: "Editing at word level and sentence level",
+      copy: "no",
+      substantive: "yes",
+      developmental: "yes"
+    },
+    {
+      id: 6,
+      title: "Checking for appropirate usage for words and terms",
+      copy: "no",
+      substantive: "yes",
+      developmental: "yes"
+    },
+    {
+      id: 7,
+      title: "Analyzing your manuscript as whole",
       copy: "no",
       substantive: "no",
       developmental: "yes"
     },
     {
-      id: 6,
-      title: "Detailed report on structure and technical correctness of your manuscript",
+      id: 8,
+      title: "Verifing effective structure and outline",
       copy: "no",
       substantive: "no",
       developmental: "yes"
     },
-      ]
+    {
+      id: 9,
+      title: "Rewriting sentences to make content clear, concise and effective",
+      copy: "no",
+      substantive: "no",
+      developmental: "yes"
+    }
+  ]
 }
 editingSample: {
-  title: "Thesis Editing Sample",
+  title: "Editing Sample",
   samples: [
     {
       id: 1,
@@ -122,24 +143,24 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Thesis Editing service",
+  title: "Highlights of our manuscript editing services",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our thesis editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your thesis editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from your thesis guide for further check.",
+      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
       image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
-      description: "We ensure your thesis is handled with utmost care. We can sign NDA if necessary.",
+      description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
       image: "../assets/confidential.svg"
     },
     {
@@ -150,6 +171,6 @@ editingHighlights: {
     }
   ]
 }
-key: "thesis_editing"
-parentType: "academic"
+key: "plagiarism_check"
+parentType: "technical"
 ---
