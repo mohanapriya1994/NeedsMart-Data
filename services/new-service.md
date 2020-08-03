@@ -50,13 +50,7 @@ editingHighlights:
       description: Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
-      image: ../assets/affordable.svg
-    - title: Editing
-      id: 0
-      description: Our manuscript editing fee is one of the best in the industry for
-        the level of quality work we offer from our trusted PhD and native
-        English editors.
-      image: ../assets/confidential.svg
+      image: ../assets/editors.svg
 key: test_service
 parentType: academic
 ---
