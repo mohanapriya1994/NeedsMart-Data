@@ -41,7 +41,7 @@ editingSample:
       id: 1
       description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: substantive_editing.png
+      image: /substantive_editing.png
 editingHighlights:
   title: Highlights of our manuscript editing services
   highlights:
