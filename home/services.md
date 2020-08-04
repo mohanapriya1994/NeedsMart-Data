@@ -6,7 +6,7 @@ services:
     description: Our PhD editors and English language specialists have worked on
       tons of manuscripts and know exactly what to do with your content. Hence
       you get a well polished content for publication.
-    image: /editing.svg
+    image: ../assets/editing.svg
   - id: 2
     title: Publication Support
     description: We offer end-to-end support in editing, formatting, journal
