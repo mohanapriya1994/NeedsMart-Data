@@ -1,6 +1,6 @@
 ---
-title: Lorem ipsum dolor sit amet, conse
+title: Add items to your outlet
 image: ./assets/manage.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius pellentesque diam est non
+Manage item availability on the app, and easily edit prices.

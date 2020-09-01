@@ -1,6 +1,6 @@
 ---
-title: Lorem ipsum dolor sit amet, conse
+title: Keep track of your orders and payments
 image: ./assets/orders.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius pellentesque diam est non
+One stop place for transaction details of all ongoing and completed orders.

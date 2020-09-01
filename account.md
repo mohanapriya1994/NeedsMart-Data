@@ -1,6 +1,6 @@
 ---
-title: Lorem ipsum dolor sit amet, conse
+title: Manage your shop's account easily
 image: ./assets/account.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius pellentesque diam est non
+Set working hours, delivery timings,exciting offers and utilize many more features the app has to offer.

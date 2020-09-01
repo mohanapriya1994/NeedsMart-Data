@@ -31,4 +31,4 @@ smLinks: [
 ]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget eu cras lorem ultricies id scelerisque elementum duis. Mauris pharetra 
+Delivering trustworthy solutions and enhancing user experience through design and development since 2019.
