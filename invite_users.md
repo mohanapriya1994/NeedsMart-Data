@@ -27,5 +27,4 @@ process: [
     image: ./assets/order-placed.png
   }
 ]
-image: ./assets/mobile.png
 ---
