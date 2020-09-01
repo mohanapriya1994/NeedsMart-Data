@@ -2,6 +2,7 @@
 title: "Footer"
 logo: "./assets/fidisys_logo.png"
 text: "© 2020 Fidisys Technologies Private Limited"
+link: "https://www.fidisys.com/"
 smLinks: [
   {
     id: 1,
