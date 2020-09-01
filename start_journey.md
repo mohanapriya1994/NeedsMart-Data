@@ -4,12 +4,14 @@ app: [
   {
     id: 1,
     title: Download Partner App,
-    link: '/'
+    link: '/',
+    theme: '#EB5753'
   },
   {
     id: 2,
     title: Download User App,
-    link: '/'
+    link: '/',
+    theme: '#7262BC'
   }
 ]
 ---
