@@ -1,5 +1,6 @@
 ---
 title: "Footer"
+description: "Delivering trustworthy solutions and enhancing user experience through design and development since 2019."
 image: "./assets/fidisys_logo.png"
 text: "© 2020 Fidisys Technologies Private Limited"
 link: "https://www.fidisys.com/"
@@ -30,5 +31,3 @@ smLinks: [
   }
 ]
 ---
-
-Delivering trustworthy solutions and enhancing user experience through design and development since 2019.
