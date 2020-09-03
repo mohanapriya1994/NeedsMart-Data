@@ -11,7 +11,7 @@ app: [
     id: 2,
     title: User App,
     link: '/',
-    theme: '#7262BC'
+    theme: '#7848CA'
   }
 ]
 ---
