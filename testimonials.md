@@ -8,7 +8,7 @@ customers: [
     comment: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet Lorem ipsum dolor sit amet, consect",
     role: "Owner",
     company: "Deva Daily Needs, Chennai",
-    image: "../assets/user.png"
+    image: "./assets/user.png"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ customers: [
     comment: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium scelerisque neque amet Lorem ipsum dolor sit amet, consect",
     role: "User",
     company: "Deva Daily Needs, Chennai",
-    image: "../assets/user.png"
+    image: "./assets/user.png"
   }
 ]
 ---
