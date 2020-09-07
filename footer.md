@@ -10,7 +10,7 @@ smLinks: [
     title: "linkedin",
     link: "https://www.linkedin.com/company/fidisys/",
     image: "./assets/linkedin.svg"
-  }
+  },
   {
     id: 2,
     title: "facebook",
@@ -34,7 +34,7 @@ smLinks: [
     title: "dribbble",
     link: "https://dribbble.com/fidisys",
     image: "./assets/dribbble.svg"
-  }
+  },
   {
     id: 6,
     title: "github",
