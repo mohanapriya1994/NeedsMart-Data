@@ -18,7 +18,7 @@ process: [
     id: 3,
     title: Choose Slots,
     description: "Choose the delivery date and timings convenient for you",
-    image: ./assets/slot.png
+    image: ./assets/slot-page.png
   },
   {
     id: 4,
