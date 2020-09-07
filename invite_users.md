@@ -22,7 +22,7 @@ process: [
   },
   {
     id: 4,
-    title: "Order is Delivered!/ Recieve your order!",
+    title: "Recieve your order!",
     description: "Sit back and relax as your order is delivered to your doorstep.",
     image: ./assets/order-placed.png
   }

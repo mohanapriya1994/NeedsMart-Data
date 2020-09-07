@@ -7,27 +7,27 @@ link: "https://www.fidisys.com/"
 smLinks: [
   {
     id: 1,
-    title: "linkedin",
-    link: "https://www.linkedin.com/company/fidisys/",
-    image: "./assets/linkedin.svg"
+    title: "facebook",
+    link: "https://www.facebook.com/",
+    image: "./assets/facebook.svg"
   },
   {
     id: 2,
-    title: "github",
-    link: "https://github.com/fidisys",
-    image: "./assets/github.svg"
+    title: "twitter",
+    link: "https://twitter.com/fidisysInc",
+    image: "./assets/twitter.svg"
   },
   {
     id: 3,
-    title: "dribbble",
-    link: "https://dribbble.com/fidisys",
-    image: "./assets/dribbble.svg"
+    title: "instagram",
+    link: "https://www.instagram.com/fidisys/",
+    image: "./assets/instagram.svg"
   },
   {
     id: 4,
-    title: "medium",
-    link: "https://medium.com/@fidisys",
-    image: "./assets/medium.svg"
+    title: "linkedin",
+    link: "https://www.linkedin.com/company/fidisys/",
+    image: "./assets/linkedin.svg"
   }
 ]
 ---

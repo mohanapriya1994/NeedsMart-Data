@@ -1,40 +1,40 @@
 ---
-title: It is all you need, With your branding
+title: A custom app for your store, tailored to your needs
 steps: [
   {
     id: 1,
-    description: "Lorem ipsum dolor sit amet, lorem",
+    description: "Bring your shop Online",
     image: ./assets/shop.png
   },
   {
     id: 2,
-    description: "Lorem ipsum dolor sit amet, lorem",
+    description: "Manage items, offers and pricing",
     image: ./assets/price-tag.png
   },
   {
     id: 3,
-    description: "Lorem ipsum dolor sit amet, lorem",
-    image: ./assets/notification.png
+    description: "Receive updates via sms and notifications",
+    image: ./assets/notifications.png
   },
   {
     id: 4,
-    description: "Lorem ipsum dolor sit amet, lorem",
+    description: "Share Orders in Whatsapp",
     image: ./assets/whatsapp.png
   },
   {
     id: 5,
-    description: "Lorem ipsum dolor sit amet, lorem",
-    image: ./assets/manage-orders.png
+    description: "Choose from tons of Predefined Items",
+    image: ./assets/items.png
   },
   {
     id: 6,
-    description: "Lorem ipsum dolor sit amet, lorem",
-    image: ./assets/time-slot.png
+    description: "Manage Slots and Availability",
+    image: ./assets/slot.png
   },
   {
     id: 7,
-    description: "Lorem ipsum dolor sit amet, lorem",
-    image: ./assets/price.png
+    description: "Get paid via Gpay and COD",
+    image: ./assets/pay.png
   }
 ]
 ---
